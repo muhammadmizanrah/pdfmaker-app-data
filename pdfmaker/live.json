@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "d7b70fe56bb27a9709f9f3c9284bdbc82b6cb8c5ff54edebd650a9b14bf78a34",
-    "signature": "ed25519:5BX6y2Up8mJ9hv7V2MuJw+a08u0D7KaFs+Yb/yskdq9JtyYhIYsisW4TYGuDdjNwczmnLY3lDX6Qk5q4ci5SCA==",
-    "bytes": 915,
-    "published_at": "2026-11-23T13:21:23+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/pdfmaker-app-data@054f5b4/pdfmaker/v2.json"
+    "version": 3,
+    "sha256": "11ef351bc5b978d82ae615bbfa05193a26ab2c5ae124590743cbcf248ea0b831",
+    "signature": "ed25519:/j4rdjEVwj591D9Oxdw1fQnvQEzFgOEuWB3Xw5eqvTmnZYG6JeKflwg8Ie7PZrE41XaE+0x1ZLpO6o2q4IyICA==",
+    "bytes": 883,
+    "published_at": "2026-11-23T13:22:47+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/pdfmaker-app-data@4c2ab04/pdfmaker/v3.json"
 }
